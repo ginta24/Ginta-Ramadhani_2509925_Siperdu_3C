@@ -19,3 +19,4 @@ class DashboardController extends Controller
             'totalBuku', 'bukuTersedia', 'bukuHabis', 'totalKategori'
         ));
     }
+}
